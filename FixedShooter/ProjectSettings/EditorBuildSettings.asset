@@ -9,13 +9,13 @@ EditorBuildSettings:
     path: Assets/Scenes/StartScreen 1.unity
     guid: d6473199e320b4e4c9e8edff3db8b2bd
   - enabled: 1
-    path: Assets/Scenes/FirstLevel.unity
+    path: Assets/Scenes/Level1.unity
     guid: 841d65e35fce7ad4da498b17f80751f2
   - enabled: 1
-    path: Assets/Scenes/FirstLevel 1.unity
+    path: Assets/Scenes/Level2.unity
     guid: f199b1c0cc5bd8444a6c365b722e94f0
   - enabled: 1
-    path: Assets/Scenes/FirstLevel 2.unity
+    path: Assets/Scenes/Level3.unity
     guid: 80778410bd2fbd743b6a9ec43caef0ba
   - enabled: 1
     path: Assets/Scenes/EndScreen.unity
